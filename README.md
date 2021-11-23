@@ -1,4 +1,4 @@
-# Spicetify-SongTagger-Extension
+# Tagify
 An extension for [Spicetify](https://github.com/khanhas/spicetify-cli) which allows you to tag songs directly in the Spotify Desktop via context menu using [SongTaggerForSpotify](https://github.com/BenediktAlkin/SongTaggerForSpotify) as back-end
 
 [See it in action](https://photos.google.com/share/AF1QipNA3lLlyc8ck4i5-LvpjpfJKQPgor9U6euXnbXqXrQmGR6AS-Q9Nvex9NYSymmkKg/photo/AF1QipNGkQAo98a-zc8Hgf6ccUHT71J-tIMpDgUqcJPY?key=ZE1xNmlXRDY2eHFwUGphbVFGdWxEb3RJd2RmaHl3)
